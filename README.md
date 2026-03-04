@@ -11,9 +11,9 @@
 ### Implementación nodo control
 
 
-### Descripción de leer la velocidad desde IDE Arduino con micro ros
+### Leer la velocidad desde IDE Arduino con micro ros
 
-- [Codigo en Arduino velocidad y filtro](https://github.com/MichelleRergisN/Fundamentaci-n-de-Rob-tica/blob/b30ea57dbb262610dadbb0f6741324290092dffb/Codigo%20en%20Arduino%20velocidad%20y%20filtro.md)
+- [Readme velocidadmicroros](https://github.com/MichelleRergisN/Fundamentaci-n-de-Rob-tica/blob/b30ea57dbb262610dadbb0f6741324290092dffb/Codigo%20en%20Arduino%20velocidad%20y%20filtro.md)
 
 ## Descripción
 
