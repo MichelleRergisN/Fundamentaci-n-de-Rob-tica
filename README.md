@@ -1,6 +1,21 @@
 # Fundamentación de Robótica
 
-## Descripción del reto
+## Índice
+
+### Descripción del reto
+- [Descripción](descripción)
+
+### Implementación nodo input
+- [Nodo input](nodoinput.md)
+
+### Implementación nodo control
+
+
+# Descripción de leer la velocidad desde IDE Arduino con micro ros
+
+- [Codigo en Arduino velocidad y filtro](codigoenarduinovelocidadyfiltro.md)
+
+## Descripción
 
 El reto consiste en controllar la velocidad de un motor DC, su velocidad debe de ser controlada usando una computadora externa, un microcontrolador y un motor driver. Usando Ros2.
 
