@@ -13,7 +13,7 @@
 
 # Descripción de leer la velocidad desde IDE Arduino con micro ros
 
-- [Codigo en Arduino velocidad y filtro](codigoenarduinovelocidadyfiltro.md)
+- [Codigo en Arduino velocidad y filtro]([codigoenarduinovelocidadyfiltro.md](https://github.com/MichelleRergisN/Fundamentaci-n-de-Rob-tica/blob/1bf2493db68f08b1afa4a78aac2362f89e664151/Codigo%20en%20Arduino%20velocidad%20y%20filtro.md))
 
 ## Descripción
 
